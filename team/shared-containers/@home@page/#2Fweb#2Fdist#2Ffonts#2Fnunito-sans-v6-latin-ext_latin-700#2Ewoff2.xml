@@ -1,0 +1,53 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/311f53e9-cd73-4997-b737-5f96a689b6a5.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="311f53e9-cd73-4997-b737-5f96a689b6a5">
+    <embedded-action>8ffbe56a-e59a-4908-bd29-e879173d3949</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_311f53e9-cd73-4997-b737-5f96a689b6a5.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    eTag="&quot;66c8-62331e7f18a00&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Sat, 28 Sep 2024 18:11:52 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2"
+    path="/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2"
+    postType="6"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/311f53e9-cd73-4997-b737-5f96a689b6a5.zip"
+    recordedResponseCode="503" responseSize="592"
+    serverUid="opensource-demo.orangehrmlive.com"
+    slaProfileEnabled="false" uid="8ffbe56a-e59a-4908-bd29-e879173d3949" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8ffbe56a-e59a-4908-bd29-e879173d3949.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8ffbe56a-e59a-4908-bd29-e879173d3949.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1711595107870"/>
+    <header name="if-none-match" value="&quot;66c8-614c58d38d852&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="orangehrm=5f999d6ddd640d5e2238de21f89f20e2"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="purpose" value="prefetch"/>
+    <header name="origin" value="https://opensource-demo.orangehrmlive.com"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept" value="*/*"/>
+    <header name="if-modified-since" value="Fri, 29 Mar 2024 05:02:50 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Not/A)Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;126&quot;, &quot;Google Chrome&quot;;v=&quot;126&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="font"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"/>
+    <header name="sec-purpose" value="prefetch;prerender"/>
+    <responseHeaders>HTTP/2.0 503&#xd;
+server: nginx&#xd;
+date: Tue, 16 Jul 2024 12:09:45 GMT&#xd;
+content-type: text/html&#xd;
+content-length: 592</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
