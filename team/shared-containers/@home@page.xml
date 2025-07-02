@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="HomePage" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="56b2401d-4a0f-45b9-8601-7294e54dca84" weightsEnabled="false">
+    <weighted-embedded-action uid="8ed368aa-9249-42d5-a251-07ed8de6015a"/>
+    <weighted-embedded-action uid="6bc96894-b31c-45ac-a906-09f34bf4b27c"/>
+    <weighted-embedded-action uid="311f53e9-cd73-4997-b737-5f96a689b6a5"/>
+    <weighted-embedded-action uid="fa068c8b-86a8-45aa-ad0a-218b2fb020ba"/>
+</basic-logical-action-container>
+<shared-element>56b2401d-4a0f-45b9-8601-7294e54dca84</shared-element>

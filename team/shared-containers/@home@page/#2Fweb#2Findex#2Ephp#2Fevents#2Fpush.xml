@@ -1,0 +1,257 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/web/index.php/events/push" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/6bc96894-b31c-45ac-a906-09f34bf4b27c.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="6bc96894-b31c-45ac-a906-09f34bf4b27c">
+    <embedded-action>882eb24b-0b96-471b-849a-597c4e4aaa04</embedded-action>
+    <embedded-action>f29a3f7f-5855-40fe-bc89-d3bae12920f2</embedded-action>
+    <embedded-action>6b0eca45-ca22-4f04-b7e7-96fa3a04f1e4</embedded-action>
+    <embedded-action>b14cd613-b7c4-4b9f-8032-af16dcae57ea</embedded-action>
+    <embedded-action>cc7d8391-e6bf-4a98-bc20-55ca1a26eb87</embedded-action>
+    <embedded-action>6f7a7d50-6887-4e15-b73b-d6b1529444d7</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_6bc96894-b31c-45ac-a906-09f34bf4b27c.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/web/index.php/events/push"
+    path="/web/index.php/events/push" postType="6"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/6bc96894-b31c-45ac-a906-09f34bf4b27c.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="opensource-demo.orangehrmlive.com"
+    slaProfileEnabled="false" uid="882eb24b-0b96-471b-849a-597c4e4aaa04" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_882eb24b-0b96-471b-849a-597c4e4aaa04.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_882eb24b-0b96-471b-849a-597c4e4aaa04.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="orangehrm=5f999d6ddd640d5e2238de21f89f20e2"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://opensource-demo.orangehrmlive.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json"/>
+    <header name="sec-ch-ua" value="&quot;Not/A)Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;126&quot;, &quot;Google Chrome&quot;;v=&quot;126&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: nginx&#xd;
+date: Tue, 16 Jul 2024 12:09:46 GMT&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+cache-control: no-cache, private&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+strict-transport-security: max-age=63072000; includeSubdomains; &#xd;
+content-security-policy: default-src blob: 'self' *.projects-abroad.net fonts.googleapis.com www.google.com fonts.gstatic.com code.jquery.com maxcdn.bootstrapcdn.com ajax.googleapis.com cdnjs.cloudflare.com native.testing.equest.com www.youtube.com demo.docusign.net youtu.be player.vimeo.com docs.google.com 'unsafe-inline' 'unsafe-eval' data: font;frame-src 'self' *.amazonaws.com native.testing.equest.com sandbox.e-signlive.com;connect-src 'self' *.orangehrm.com;img-src * 'self' data: blob:&#xd;
+public-key-pins: pin-sha256="blgmjf3Tb3C0sUqb7jo4axiZAnr327fX0ycrUGqjw2k=";pin-sha256="yQhO6YqQX5Y/NxyHAjXnI3jOtYWUm/TtRr666RunXRg="; pin-sha256="puCdyuZdXoDc5jSdcGKU6mdjd0VNq16yoaO2BcDF36A="; max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/web/index.php/api/v2/dashboard/employees/action-summary"
+    path="/web/index.php/api/v2/dashboard/employees/action-summary"
+    postType="6"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/6bc96894-b31c-45ac-a906-09f34bf4b27c.zip"
+    recordedResponseCode="200" responseSize="93"
+    serverUid="opensource-demo.orangehrmlive.com"
+    slaProfileEnabled="false" uid="f29a3f7f-5855-40fe-bc89-d3bae12920f2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f29a3f7f-5855-40fe-bc89-d3bae12920f2</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f29a3f7f-5855-40fe-bc89-d3bae12920f2.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="orangehrm=5f999d6ddd640d5e2238de21f89f20e2"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json"/>
+    <header name="sec-ch-ua" value="&quot;Not/A)Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;126&quot;, &quot;Google Chrome&quot;;v=&quot;126&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="cache-control" value="no-store, no-cache, must-revalidate, post-check=0, pre-check=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: nginx&#xd;
+date: Tue, 16 Jul 2024 12:09:46 GMT&#xd;
+content-type: application/json&#xd;
+cache-control: no-cache, private&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+strict-transport-security: max-age=63072000; includeSubdomains; &#xd;
+content-security-policy: default-src blob: 'self' *.projects-abroad.net fonts.googleapis.com www.google.com fonts.gstatic.com code.jquery.com maxcdn.bootstrapcdn.com ajax.googleapis.com cdnjs.cloudflare.com native.testing.equest.com www.youtube.com demo.docusign.net youtu.be player.vimeo.com docs.google.com 'unsafe-inline' 'unsafe-eval' data: font;frame-src 'self' *.amazonaws.com native.testing.equest.com sandbox.e-signlive.com;connect-src 'self' *.orangehrm.com;img-src * 'self' data: blob:&#xd;
+public-key-pins: pin-sha256="blgmjf3Tb3C0sUqb7jo4axiZAnr327fX0ycrUGqjw2k=";pin-sha256="yQhO6YqQX5Y/NxyHAjXnI3jOtYWUm/TtRr666RunXRg="; pin-sha256="puCdyuZdXoDc5jSdcGKU6mdjd0VNq16yoaO2BcDF36A="; max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/web/index.php/api/v2/dashboard/shortcuts"
+    path="/web/index.php/api/v2/dashboard/shortcuts" postType="6"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/6bc96894-b31c-45ac-a906-09f34bf4b27c.zip"
+    recordedResponseCode="200" responseSize="183"
+    serverUid="opensource-demo.orangehrmlive.com"
+    slaProfileEnabled="false" uid="6b0eca45-ca22-4f04-b7e7-96fa3a04f1e4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6b0eca45-ca22-4f04-b7e7-96fa3a04f1e4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6b0eca45-ca22-4f04-b7e7-96fa3a04f1e4.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="orangehrm=5f999d6ddd640d5e2238de21f89f20e2"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json"/>
+    <header name="sec-ch-ua" value="&quot;Not/A)Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;126&quot;, &quot;Google Chrome&quot;;v=&quot;126&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="cache-control" value="no-store, no-cache, must-revalidate, post-check=0, pre-check=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: nginx&#xd;
+date: Tue, 16 Jul 2024 12:09:46 GMT&#xd;
+content-type: application/json&#xd;
+cache-control: no-cache, private&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+strict-transport-security: max-age=63072000; includeSubdomains; &#xd;
+content-security-policy: default-src blob: 'self' *.projects-abroad.net fonts.googleapis.com www.google.com fonts.gstatic.com code.jquery.com maxcdn.bootstrapcdn.com ajax.googleapis.com cdnjs.cloudflare.com native.testing.equest.com www.youtube.com demo.docusign.net youtu.be player.vimeo.com docs.google.com 'unsafe-inline' 'unsafe-eval' data: font;frame-src 'self' *.amazonaws.com native.testing.equest.com sandbox.e-signlive.com;connect-src 'self' *.orangehrm.com;img-src * 'self' data: blob:&#xd;
+public-key-pins: pin-sha256="blgmjf3Tb3C0sUqb7jo4axiZAnr327fX0ycrUGqjw2k=";pin-sha256="yQhO6YqQX5Y/NxyHAjXnI3jOtYWUm/TtRr666RunXRg="; pin-sha256="puCdyuZdXoDc5jSdcGKU6mdjd0VNq16yoaO2BcDF36A="; max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/web/index.php/api/v2/dashboard/employees/leaves"
+    path="/web/index.php/api/v2/dashboard/employees/leaves" postType="6"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/6bc96894-b31c-45ac-a906-09f34bf4b27c.zip"
+    recordedResponseCode="200" responseSize="66"
+    serverUid="opensource-demo.orangehrmlive.com"
+    slaProfileEnabled="false" uid="b14cd613-b7c4-4b9f-8032-af16dcae57ea" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b14cd613-b7c4-4b9f-8032-af16dcae57ea</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b14cd613-b7c4-4b9f-8032-af16dcae57ea.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="date"
+        recordRawValue="2024-07-16" separator="=" value="2024-07-16" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="orangehrm=5f999d6ddd640d5e2238de21f89f20e2"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json"/>
+    <header name="sec-ch-ua" value="&quot;Not/A)Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;126&quot;, &quot;Google Chrome&quot;;v=&quot;126&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="cache-control" value="no-store, no-cache, must-revalidate, post-check=0, pre-check=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: nginx&#xd;
+date: Tue, 16 Jul 2024 12:09:46 GMT&#xd;
+content-type: application/json&#xd;
+cache-control: no-cache, private&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+strict-transport-security: max-age=63072000; includeSubdomains; &#xd;
+content-security-policy: default-src blob: 'self' *.projects-abroad.net fonts.googleapis.com www.google.com fonts.gstatic.com code.jquery.com maxcdn.bootstrapcdn.com ajax.googleapis.com cdnjs.cloudflare.com native.testing.equest.com www.youtube.com demo.docusign.net youtu.be player.vimeo.com docs.google.com 'unsafe-inline' 'unsafe-eval' data: font;frame-src 'self' *.amazonaws.com native.testing.equest.com sandbox.e-signlive.com;connect-src 'self' *.orangehrm.com;img-src * 'self' data: blob:&#xd;
+public-key-pins: pin-sha256="blgmjf3Tb3C0sUqb7jo4axiZAnr327fX0ycrUGqjw2k=";pin-sha256="yQhO6YqQX5Y/NxyHAjXnI3jOtYWUm/TtRr666RunXRg="; pin-sha256="puCdyuZdXoDc5jSdcGKU6mdjd0VNq16yoaO2BcDF36A="; max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/web/index.php/api/v2/dashboard/employees/subunit"
+    path="/web/index.php/api/v2/dashboard/employees/subunit"
+    postType="6"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/6bc96894-b31c-45ac-a906-09f34bf4b27c.zip"
+    recordedResponseCode="200" responseSize="325"
+    serverUid="opensource-demo.orangehrmlive.com"
+    slaProfileEnabled="false" uid="cc7d8391-e6bf-4a98-bc20-55ca1a26eb87" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_cc7d8391-e6bf-4a98-bc20-55ca1a26eb87</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_cc7d8391-e6bf-4a98-bc20-55ca1a26eb87.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="orangehrm=5f999d6ddd640d5e2238de21f89f20e2"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json"/>
+    <header name="sec-ch-ua" value="&quot;Not/A)Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;126&quot;, &quot;Google Chrome&quot;;v=&quot;126&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="cache-control" value="no-store, no-cache, must-revalidate, post-check=0, pre-check=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: nginx&#xd;
+date: Tue, 16 Jul 2024 12:09:46 GMT&#xd;
+content-type: application/json&#xd;
+cache-control: no-cache, private&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+strict-transport-security: max-age=63072000; includeSubdomains; &#xd;
+content-security-policy: default-src blob: 'self' *.projects-abroad.net fonts.googleapis.com www.google.com fonts.gstatic.com code.jquery.com maxcdn.bootstrapcdn.com ajax.googleapis.com cdnjs.cloudflare.com native.testing.equest.com www.youtube.com demo.docusign.net youtu.be player.vimeo.com docs.google.com 'unsafe-inline' 'unsafe-eval' data: font;frame-src 'self' *.amazonaws.com native.testing.equest.com sandbox.e-signlive.com;connect-src 'self' *.orangehrm.com;img-src * 'self' data: blob:&#xd;
+public-key-pins: pin-sha256="blgmjf3Tb3C0sUqb7jo4axiZAnr327fX0ycrUGqjw2k=";pin-sha256="yQhO6YqQX5Y/NxyHAjXnI3jOtYWUm/TtRr666RunXRg="; pin-sha256="puCdyuZdXoDc5jSdcGKU6mdjd0VNq16yoaO2BcDF36A="; max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/web/index.php/api/v2/dashboard/employees/locations"
+    path="/web/index.php/api/v2/dashboard/employees/locations"
+    postType="6"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/6bc96894-b31c-45ac-a906-09f34bf4b27c.zip"
+    recordedResponseCode="200" responseSize="219"
+    serverUid="opensource-demo.orangehrmlive.com"
+    slaProfileEnabled="false" uid="6f7a7d50-6887-4e15-b73b-d6b1529444d7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6f7a7d50-6887-4e15-b73b-d6b1529444d7</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6f7a7d50-6887-4e15-b73b-d6b1529444d7.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="orangehrm=5f999d6ddd640d5e2238de21f89f20e2"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json"/>
+    <header name="sec-ch-ua" value="&quot;Not/A)Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;126&quot;, &quot;Google Chrome&quot;;v=&quot;126&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="cache-control" value="no-store, no-cache, must-revalidate, post-check=0, pre-check=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: nginx&#xd;
+date: Tue, 16 Jul 2024 12:09:45 GMT&#xd;
+content-type: application/json&#xd;
+cache-control: no-cache, private&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+strict-transport-security: max-age=63072000; includeSubdomains; &#xd;
+content-security-policy: default-src blob: 'self' *.projects-abroad.net fonts.googleapis.com www.google.com fonts.gstatic.com code.jquery.com maxcdn.bootstrapcdn.com ajax.googleapis.com cdnjs.cloudflare.com native.testing.equest.com www.youtube.com demo.docusign.net youtu.be player.vimeo.com docs.google.com 'unsafe-inline' 'unsafe-eval' data: font;frame-src 'self' *.amazonaws.com native.testing.equest.com sandbox.e-signlive.com;connect-src 'self' *.orangehrm.com;img-src * 'self' data: blob:&#xd;
+public-key-pins: pin-sha256="blgmjf3Tb3C0sUqb7jo4axiZAnr327fX0ycrUGqjw2k=";pin-sha256="yQhO6YqQX5Y/NxyHAjXnI3jOtYWUm/TtRr666RunXRg="; pin-sha256="puCdyuZdXoDc5jSdcGKU6mdjd0VNq16yoaO2BcDF36A="; max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

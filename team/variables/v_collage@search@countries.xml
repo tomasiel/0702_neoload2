@@ -1,0 +1,4 @@
+<variable-list name="v_collageSearchCountries" offset="1" order="1" policy="5" range="4" uid="ed829c2f-c02f-4300-bb57-528346e613cb" whenOutOfValues="STOP_TEST">
+<column name="Country" number="0"/>
+<values><![CDATA[rO0ABXVyABRbW0xqYXZhLmxhbmcuU3RyaW5nOzJNCa2EMuRXAgAAeHAAAAADdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQABk1leGljb3VxAH4AAgAAAAF0AAVJbmRpYXVxAH4AAgAAAAF0AAZTd2VkZW4=]]></values>
+</variable-list>

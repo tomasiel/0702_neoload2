@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="MyInfoPg" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="7665547b-515a-49b8-9c5b-c6585358da0e" weightsEnabled="false">
+    <weighted-embedded-action uid="2581517f-5fbf-4d46-9d4a-ca77bd32d0f4"/>
+    <weighted-embedded-action uid="32473115-ed86-4496-9aa4-399242755edd"/>
+</basic-logical-action-container>
